@@ -1,17 +1,18 @@
 ![Header](https://github.com/GrigorevEv/GrigorevEv/blob/main/assets/photo.png)
 
-## I am a beginner web developer.
+### Hey! I am a beginner web developer. This is where I store my projects. I hope you find something useful here).
 
-## Languages and tools
+### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx)
-![HTML](https://img.shields.io/badge/-HTML-DD4B25?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-254BDD?style=for-the-badge&logo=css3)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
-## Follow me
+### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/GrigorevEv)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/millturner/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/grigorevev)
