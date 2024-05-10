@@ -1,6 +1,4 @@
-![Header](https://github.com/GrigorevEv/GrigorevEv/blob/main/assets/photo.png)
-
-### Hey! I am a beginner web developer. This is where I store my projects. I hope you find something useful here).
+![Header](https://github.com/GrigorevEv/GrigorevEv/blob/main/assets/photo.
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
