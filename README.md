@@ -1,4 +1,4 @@
-![Header](https://github.com/GrigorevEv/GrigorevEv/blob/main/assets/photo.
+![Header](https://github.com/GrigorevEv/GrigorevEv/blob/main/assets/photo.) 
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
